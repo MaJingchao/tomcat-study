@@ -1,0 +1,180 @@
+01-Apr-2017 16:57:04.312 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 16:57:04.313 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 16:57:04.314 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 16:57:04.314 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 16:57:04.384 SEVERE [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at catalina-home/temp
+01-Apr-2017 16:57:11.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+01-Apr-2017 16:57:11.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+01-Apr-2017 16:57:11.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+01-Apr-2017 16:57:11.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+01-Apr-2017 16:57:11.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+01-Apr-2017 16:57:11.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Apr-2017 16:57:11.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.7.0_79\jre
+01-Apr-2017 16:57:11.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_79-b15
+01-Apr-2017 16:57:11.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Apr-2017 16:57:11.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 16:57:11.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 16:57:11.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:18007,suspend=y,server=n
+01-Apr-2017 16:57:11.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+01-Apr-2017 16:57:11.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+01-Apr-2017 16:57:11.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+01-Apr-2017 16:57:11.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+01-Apr-2017 16:57:11.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Apr-2017 16:57:11.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+01-Apr-2017 16:57:11.228 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+01-Apr-2017 16:57:11.228 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_79\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;D:\Program Files (x86)\RBTools\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.8.0_121\bin;D:\program\apache-tomcat-8.0.24\bin;D:\program\apache-tomcat-8.0.24\lib;D:\program\apache-maven-3.3.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\go\bin;D:\Program Files\Git\cmd;D:\Program Files\TortoiseGit\bin;D:\program\gradle-3.3\bin;;D:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\OpenVPN\bin;.
+01-Apr-2017 16:57:11.544 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 16:57:11.577 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 16:57:11.580 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 16:57:11.583 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 16:57:11.583 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 7201 ms
+01-Apr-2017 16:57:11.634 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+01-Apr-2017 16:57:11.634 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+01-Apr-2017 16:57:11.645 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 16:57:11.656 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 16:57:11.659 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 75 ms
+01-Apr-2017 16:59:15.686 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 16:59:15.688 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 16:59:15.688 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 16:59:15.689 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 16:59:30.240 SEVERE [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at catalina-home/temp
+01-Apr-2017 16:59:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+01-Apr-2017 16:59:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+01-Apr-2017 16:59:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+01-Apr-2017 16:59:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+01-Apr-2017 16:59:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+01-Apr-2017 16:59:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Apr-2017 16:59:30.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.7.0_79\jre
+01-Apr-2017 16:59:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_79-b15
+01-Apr-2017 16:59:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Apr-2017 16:59:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 16:59:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 16:59:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:1295,suspend=y,server=n
+01-Apr-2017 16:59:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+01-Apr-2017 16:59:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+01-Apr-2017 16:59:30.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+01-Apr-2017 16:59:30.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+01-Apr-2017 16:59:30.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Apr-2017 16:59:30.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+01-Apr-2017 16:59:30.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+01-Apr-2017 16:59:30.768 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_79\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;D:\Program Files (x86)\RBTools\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.8.0_121\bin;D:\program\apache-tomcat-8.0.24\bin;D:\program\apache-tomcat-8.0.24\lib;D:\program\apache-maven-3.3.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\go\bin;D:\Program Files\Git\cmd;D:\Program Files\TortoiseGit\bin;D:\program\gradle-3.3\bin;;D:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\OpenVPN\bin;.
+01-Apr-2017 16:59:30.925 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 16:59:30.966 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 16:59:30.970 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 16:59:30.973 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 16:59:30.973 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 734 ms
+01-Apr-2017 16:59:31.001 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+01-Apr-2017 16:59:31.001 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+01-Apr-2017 16:59:31.011 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 16:59:31.020 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 16:59:31.022 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 48 ms
+01-Apr-2017 17:31:34.417 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:31:40.931 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:31:43.921 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:31:47.878 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:37:03.432 SEVERE [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at catalina-home/temp
+01-Apr-2017 17:37:04.719 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+01-Apr-2017 17:37:04.719 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+01-Apr-2017 17:37:04.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+01-Apr-2017 17:37:04.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+01-Apr-2017 17:37:04.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+01-Apr-2017 17:37:04.720 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Apr-2017 17:37:04.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.7.0_79\jre
+01-Apr-2017 17:37:04.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_79-b15
+01-Apr-2017 17:37:04.721 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Apr-2017 17:37:04.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 17:37:04.722 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 17:37:04.723 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:57527,suspend=y,server=n
+01-Apr-2017 17:37:04.723 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+01-Apr-2017 17:37:04.723 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+01-Apr-2017 17:37:04.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+01-Apr-2017 17:37:04.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+01-Apr-2017 17:37:04.724 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Apr-2017 17:37:04.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+01-Apr-2017 17:37:04.725 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+01-Apr-2017 17:37:04.725 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_79\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;D:\Program Files (x86)\RBTools\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.8.0_121\bin;D:\program\apache-tomcat-8.0.24\bin;D:\program\apache-tomcat-8.0.24\lib;D:\program\apache-maven-3.3.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\go\bin;D:\Program Files\Git\cmd;D:\Program Files\TortoiseGit\bin;D:\program\gradle-3.3\bin;;D:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\OpenVPN\bin;.
+01-Apr-2017 17:37:05.041 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 17:37:05.091 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 17:37:05.096 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 17:37:05.103 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 17:37:05.104 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1674 ms
+01-Apr-2017 17:38:52.689 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+01-Apr-2017 17:38:52.690 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+01-Apr-2017 17:38:52.707 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 17:38:52.736 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 17:38:52.741 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 144 ms
+01-Apr-2017 17:39:40.337 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:39:40.341 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:39:40.342 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:39:40.342 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:39:43.293 SEVERE [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at catalina-home/temp
+01-Apr-2017 17:39:43.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+01-Apr-2017 17:39:43.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+01-Apr-2017 17:39:43.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+01-Apr-2017 17:39:43.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+01-Apr-2017 17:39:43.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+01-Apr-2017 17:39:43.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Apr-2017 17:39:43.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.7.0_79\jre
+01-Apr-2017 17:39:43.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_79-b15
+01-Apr-2017 17:39:43.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Apr-2017 17:39:43.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 17:39:43.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 17:39:43.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:41193,suspend=y,server=n
+01-Apr-2017 17:39:43.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+01-Apr-2017 17:39:43.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+01-Apr-2017 17:39:43.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+01-Apr-2017 17:39:43.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+01-Apr-2017 17:39:43.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Apr-2017 17:39:43.825 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+01-Apr-2017 17:39:43.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+01-Apr-2017 17:39:43.826 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_79\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;D:\Program Files (x86)\RBTools\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.8.0_121\bin;D:\program\apache-tomcat-8.0.24\bin;D:\program\apache-tomcat-8.0.24\lib;D:\program\apache-maven-3.3.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\go\bin;D:\Program Files\Git\cmd;D:\Program Files\TortoiseGit\bin;D:\program\gradle-3.3\bin;;D:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\OpenVPN\bin;.
+01-Apr-2017 17:39:43.981 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 17:39:44.018 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 17:39:44.021 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 17:39:44.024 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 17:39:44.024 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 732 ms
+01-Apr-2017 17:44:02.304 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+01-Apr-2017 17:44:02.305 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+01-Apr-2017 17:44:02.319 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 17:44:02.341 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 17:44:58.756 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 93713 ms
+01-Apr-2017 17:45:06.791 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:45:06.793 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:45:06.793 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:45:06.793 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:45:06.817 SEVERE [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at catalina-home/temp
+01-Apr-2017 17:45:13.347 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:45:13.349 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:45:13.349 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:45:13.349 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\project\tomcat-sutdy\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+01-Apr-2017 17:45:15.754 SEVERE [main] org.apache.catalina.startup.Catalina.initDirs Cannot find specified temporary folder at catalina-home/temp
+01-Apr-2017 17:45:16.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+01-Apr-2017 17:45:16.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+01-Apr-2017 17:45:16.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+01-Apr-2017 17:45:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+01-Apr-2017 17:45:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+01-Apr-2017 17:45:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Apr-2017 17:45:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.7.0_79\jre
+01-Apr-2017 17:45:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_79-b15
+01-Apr-2017 17:45:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Apr-2017 17:45:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 17:45:16.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\project\tomcat-sutdy\catalina-home
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:57049,suspend=y,server=n
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+01-Apr-2017 17:45:16.272 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.7.0_79\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;D:\Program Files (x86)\RBTools\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.8.0_121\bin;D:\program\apache-tomcat-8.0.24\bin;D:\program\apache-tomcat-8.0.24\lib;D:\program\apache-maven-3.3.3\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;D:\Program Files\go\bin;D:\Program Files\Git\cmd;D:\Program Files\TortoiseGit\bin;D:\program\gradle-3.3\bin;;D:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\OpenVPN\bin;.
+01-Apr-2017 17:45:16.424 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 17:45:16.459 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 17:45:16.462 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 17:45:16.466 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+01-Apr-2017 17:45:16.466 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 712 ms
+01-Apr-2017 17:47:08.964 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+01-Apr-2017 17:47:12.155 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+01-Apr-2017 17:47:18.292 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Apr-2017 17:47:18.515 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+01-Apr-2017 17:47:18.519 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 119067 ms
